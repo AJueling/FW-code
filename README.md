@@ -1,5 +1,7 @@
-# Code for the Ocean Science publication _The Atlantic's Freshwater Budget under Climate Change in the Community Earth System Model with Strongly Eddying Oceans_ (doi:10.5194/os-2020-76)
-## by André Jüling, Xun Zhang, Daniele Castellana, Anna S. von der Heydt, and Henk A. Dijkstra
+# Code for the Ocean Science publication [![DOI](https://zenodo.org/badge/143137715.svg)](https://zenodo.org/badge/latestdoi/143137715)
+### The Atlantic's Freshwater Budget under Climate Change in the Community Earth System Model with Strongly Eddying Oceans
+### (doi:10.5194/os-2020-76)
+#### by André Jüling, Xun Zhang, Daniele Castellana, Anna S. von der Heydt, and Henk A. Dijkstra
 
 ## Code Structure
 
